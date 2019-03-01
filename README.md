@@ -5,7 +5,8 @@ Ik ben Ruben en doe een test
 
 ##Hoofdstuk 2
 
-https://www.fluvius.be
+https://wifidashboard.fluviusnet.be
+
 
 ##Hoofdstuk 3 
 
